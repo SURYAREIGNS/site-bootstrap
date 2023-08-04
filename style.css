@@ -18,3 +18,10 @@ h1{
     padding-bottom: 20px;
     border-bottom: 3px solid lightgoldenrodyellow;
 }
+.photo{
+    width: 30%;
+    height: 30vh;
+    background-image: url(https://blog.hubspot.com/hs-fs/hubfs/simple%20website%20examples.jpg?width=893&height=600&name=simple%20website%20examples.jpg);
+    background-size: cover;
+    margin: auto;
+}
